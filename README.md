@@ -14,4 +14,6 @@ This project analyzes and predicts customer churn using a machine learning model
 - Threshold tuning, SMOTE/undersampling used
 - Tableau dashboard with churn insights and recommendations
 
+##  Interactive Dashboard
 
+View the live Tableau dashboard here: [Click to Open Dashboard](https://public.tableau.com/app/profile/isha.kushwaha/viz/ChurnAnalysisDashboard_17523226136540/ChurnAnalysisDashboard)
