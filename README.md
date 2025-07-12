@@ -15,5 +15,5 @@ This project analyzes and predicts customer churn using a machine learning model
 - Tableau dashboard with churn insights and recommendations
 
 ## Dashboard Preview
-![Dashboard](churn_Analysis_dashboard.png)
+![Dashboard](churn_Analysis_dashboard)
 
